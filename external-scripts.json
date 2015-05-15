@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-heroku-keepalive",
   "hubot-xkcd",
-  "hubot-plusplus"
+  "hubot-plusplus",
+  "hubot-woot"
 ]
