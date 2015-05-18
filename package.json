@@ -21,7 +21,8 @@
     "hubot-slack": "^3.3.0",
     "hubot-woot": "git://github.com/whyjustin/hubot-woot",
     "hubot-xkcd": "0.0.3",
-    "hubot-youtube": "^0.1.2"
+    "hubot-youtube": "^0.1.2",
+	"hubot-soundcloud": "git://github.com/ccrabb/hubot-soundcloud"
   },
   "engines": {
     "node": "0.10.x"

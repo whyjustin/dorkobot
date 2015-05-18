@@ -12,5 +12,6 @@
   "hubot-youtube",
   "hubot-xkcd",
   "hubot-plusplus",
-  "hubot-woot"
+  "hubot-woot",
+  "hubot-soundcloud"
 ]
