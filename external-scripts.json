@@ -13,5 +13,6 @@
   "hubot-xkcd",
   "hubot-plusplus",
   "hubot-woot",
-  "hubot-soundcloud"
+  "hubot-soundcloud",
+  "hubot-scripts-stock"
 ]
