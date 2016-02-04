@@ -15,5 +15,6 @@
   "hubot-woot",
   "hubot-soundcloud",
   "hubot-scripts-stock",
-  "hubot-macro"
+  "hubot-macro",
+  "hubot-frinkiac"
 ]
