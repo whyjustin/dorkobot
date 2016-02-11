@@ -16,5 +16,6 @@
   "hubot-soundcloud",
   "hubot-scripts-stock",
   "hubot-macro",
-  "hubot-frinkiac"
+  "hubot-frinkiac",
+  "hubot-reddit"
 ]
