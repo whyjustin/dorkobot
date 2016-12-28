@@ -7,6 +7,7 @@
   "dependencies": {
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
+    "hubot-frinkiac": "^2.2.0",
     "hubot-google-images": "^0.1.4",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
@@ -15,6 +16,7 @@
     "hubot-maps": "0.0.2",
     "hubot-plusplus": "^1.1.5",
     "hubot-pugme": "^0.1.0",
+    "hubot-reddit": "git://github.com/whyjustin/hubot-reddit",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
@@ -24,9 +26,7 @@
     "hubot-soundcloud": "git://github.com/ccrabb/hubot-soundcloud",
     "hubot-woot": "git://github.com/whyjustin/hubot-woot",
     "hubot-xkcd": "0.0.3",
-    "hubot-youtube": "^0.1.2",
-    "hubot-frinkiac": "git://github.com/whyjustin/hubot-frinkiac",
-    "hubot-reddit": "git://github.com/whyjustin/hubot-reddit"
+    "hubot-youtube": "^0.1.2"
   },
   "engines": {
     "node": "0.10.x"
