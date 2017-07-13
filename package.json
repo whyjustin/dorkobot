@@ -27,8 +27,5 @@
     "hubot-woot": "git://github.com/whyjustin/hubot-woot",
     "hubot-xkcd": "0.0.3",
     "hubot-youtube": "^0.1.2"
-  },
-  "engines": {
-    "node": "0.10.x"
   }
 }
